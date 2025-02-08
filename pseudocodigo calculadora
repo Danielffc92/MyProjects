@@ -1,0 +1,30 @@
+// Inicio
+Declarar primeiro número como float
+Opção de apagar número
+Dar opções de cálculos
+Declarar segundo número como float
+Opção de apagar número
+Opção de apagar cálculo
+Mostrar o resultado final
+
+// Entrada de Dados
+Escrever("Digite um número: ")
+Ler(número1)
+Escrever("Deseja apagar o número inserido? ")
+Ler(Sim/Não)
+Selecionar o tipo de cálculo(soma, subtração, divisão, multiplicação, percentagem)
+Ler(tipodecalculo)
+Escrever("Digite um número: ")
+Ler(número2)
+Escrever("Deseja apagar o número inserido? ")
+Ler(Sim/Não)
+Escrever("Deseja apagar o cálculo? ")
+Ler(Sim/Não)
+Mostrar Resultado
+    
+
+// Processamento
+Resultado <- (número1 + tipodecalculo + número2)
+
+// Saída de dados
+Escreva("O resultado final é: " ,Resultado)
